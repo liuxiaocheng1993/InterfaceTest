@@ -1,0 +1,3 @@
+# InterfaceTest
+这是一个用python写的接口测试框架
+需要按照模板来写测试用例
